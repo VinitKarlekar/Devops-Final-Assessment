@@ -1,9 +1,7 @@
 # DevOps Intern Final Assessment
 
-**Name:** [Your Name Here]  
+**Name:** Vinit Karlekar  
 **Date:** August 2025  
-
-![CI](https://github.com/[your-username]/devops-intern-final/actions/workflows/ci.yml/badge.svg)
 
 ---
 
@@ -56,7 +54,7 @@ devops-intern-final/
 
 2. **Clone and setup locally:**
    ```bash
-   git clone https://github.com/[your-username]/devops-intern-final.git
+   git clone https://github.com/VinitKarlekar/Devops-Final-Assessment.git
    cd devops-intern-final
    ```
 
@@ -458,8 +456,8 @@ curl -G -s "http://localhost:3100/loki/api/v1/query_range" \
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/[your-username]/devops-intern-final.git
-cd devops-intern-final
+git clone https://github.com/VinitKarlekar/Devops-Final-Assessment.git
+cd devops-final-project
 
 # 2. Test Python script
 python hello.py
@@ -531,38 +529,3 @@ graph TD
 
 ---
 
-## 🎯 Learning Outcomes
-
-This project demonstrates proficiency in:
-
-1. **Infrastructure as Code** - Declarative configurations for deployment
-2. **Containerization** - Docker best practices and optimization
-3. **CI/CD Pipelines** - Automated testing and deployment
-4. **Service Orchestration** - Job scheduling with Nomad
-5. **Observability** - Centralized logging and monitoring
-6. **Documentation** - Clear, actionable technical documentation
-
----
-
-## 🚀 Next Steps & Improvements
-
-**Potential enhancements:**
-- Add automated security scanning (Trivy, OWASP)
-- Implement multi-environment deployments (dev/staging/prod)
-- Add infrastructure provisioning with Terraform
-- Integrate metrics collection with Prometheus
-- Implement blue-green deployment strategies
-- Add automated backup and disaster recovery
-
----
-
-## 📞 Support & Contact
-
-**Developer:** [Your Name]  
-**Email:** [your.email@example.com]  
-**GitHub:** [@your-username](https://github.com/your-username)  
-**Date:** August 2025  
-
----
-
-*This project represents a complete DevOps pipeline implementation showcasing modern practices and tools for continuous integration, deployment, and monitoring.*
