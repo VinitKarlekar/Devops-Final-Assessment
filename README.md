@@ -1,4 +1,4 @@
-# DevOps Intern Final Assessment
+# DevOps Final Assessment
 
 **Name:** Vinit Karlekar  
 **Date:** 20 August 2025  
